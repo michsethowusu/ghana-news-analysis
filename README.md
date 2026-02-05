@@ -19,20 +19,20 @@ The goal is to scrape at least 5 major Ghanaian news outlets, process the text d
 ------
 
 ## News Sources Covered
-[GhanaWeb](https://www.ghanaweb.com)
-[Citi Newsroom](https://citinewsroom.com)
-[Graphic Online](https://www.graphic.com.gh)
-[MyJoyOnline](https://www.myjoyonline.com)
-[Ghana News Agency](https://gna.org.gh) 
+- [GhanaWeb](https://www.ghanaweb.com)
+- [Citi Newsroom](https://citinewsroom.com)
+- [Graphic Online](https://www.graphic.com.gh)
+- [MyJoyOnline](https://www.myjoyonline.com)
+- [Ghana News Agency](https://gna.org.gh) 
 
 ## Contributors
 
 Thanks to our contributors
 
-[Kasuadana Sulemana Adams](https://www.linkedin.com/in/kasuadana1/) 
-[Jonathan Ato Markin](https://www.linkedin.com/in/atomarkin/)
-[Josephus Bawah](https://www.linkedin.com/in/josephus-bawah/)
-[Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)
+- [Kasuadana Sulemana Adams](https://www.linkedin.com/in/kasuadana1/) 
+- [Jonathan Ato Markin](https://www.linkedin.com/in/atomarkin/)
+- [Josephus Bawah](https://www.linkedin.com/in/josephus-bawah/)
+- [Gerhardt Datsomor](https://www.linkedin.com/in/gerhardt-datsomor/)
 
 ------
 
