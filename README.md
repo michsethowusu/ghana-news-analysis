@@ -2,10 +2,6 @@
 
 A collaborative public information project to identify key topics that appeared frequently in Ghanaian news.
 
-## Project Overview
-
-The goal is to scrape at least 5 major Ghanaian news outlets, process the text data, and perform keyword extraction to see what topics dominated the news in 2025.
-
 
 ------
 
