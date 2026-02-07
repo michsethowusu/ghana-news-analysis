@@ -5,7 +5,7 @@ A collaborative public information project to identify key topics that appeared 
 
 ------
 
-## News Sources Covered
+## News Sources
 - [GhanaWeb](https://www.ghanaweb.com)
 - [Citi Newsroom](https://citinewsroom.com)
 - [Graphic Online](https://www.graphic.com.gh)
