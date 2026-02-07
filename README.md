@@ -1,6 +1,6 @@
-# Ghana News Analysis 2025
+# Ghana Topics 2025
 
-A collaborative public information project to identify and visualize the top 20 percent topics that appeared in Ghanaian news throughout 2025.
+A collaborative public information project to identify key topics that appeared frequently in Ghanaian news throughout 2025.
 
 ## Project Overview
 
