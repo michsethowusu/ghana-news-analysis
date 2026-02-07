@@ -1,15 +1,12 @@
-# Ghana News Analysis 2025
+# Ghana Topics
 
-A collaborative public information project to identify and visualize the top 20 percent topics that appeared in Ghanaian news throughout 2025.
-
-## Project Overview
-
-The goal is to scrape at least 5 major Ghanaian news outlets, process the text data, and perform keyword extraction to see what topics dominated the news in 2025.
+A collaborative public information project to identify key topics that appeared frequently in Ghanaian news annually.
+The current results are from analysing news articles published in 2025.
 
 
 ------
 
-## News Sources Covered
+## News Sources
 - [GhanaWeb](https://www.ghanaweb.com)
 - [Citi Newsroom](https://citinewsroom.com)
 - [Graphic Online](https://www.graphic.com.gh)
